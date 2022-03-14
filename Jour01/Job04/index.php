@@ -9,6 +9,9 @@
     
 </head>
 <body>
-   
+<script>
+    // window.alert(message)
+    console.log(message)
+</script>   
 </body>
 </html>
