@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <title>JOB 05</title>
+    
+</head>
+<body>
+<h1>JOB 05</h1>    
+<p>    
+Créez une fonction “afficherjourssemaines”. Cette fonction ne prend pas de
+paramètre. Créez un tableau de strings “jourssemaines” qui contient
+l’ensemble des jours de la semaine, du Lundi au Dimanche. Ensuite à
+l’aide d’une boucle for (for!), affichez un par un ces jours.
+</p>
+</body>
+</html>
