@@ -9,6 +9,11 @@
     
 </head>
 <body>
-
+    <section>
+        <article>
+            <p id='compteur'></p>
+            <button id='button'>button</button>
+        </article>
+    </section>
 </body>
 </html>
