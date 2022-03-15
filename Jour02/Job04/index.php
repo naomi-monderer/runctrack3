@@ -9,6 +9,8 @@
     
 </head>
 <body>
+    <textarea id='keylogger'></textarea>
 
 </body>
 </html>
+
