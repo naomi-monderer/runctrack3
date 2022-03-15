@@ -9,6 +9,12 @@
     
 </head>
 <body>
+    <section>
+        <article>
+            “L'important n'est pas la chute, mais l'atterrissage.”.
+        </article>
+        <button id="button">Cache et Montre</button>
+    </section>
 
 </body>
 </html>
