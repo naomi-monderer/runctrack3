@@ -10,15 +10,16 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="melangees"></div>
+  
     <div id="rangees">
-        <img src="arc1.png" id="arc1">
-        <img src="arc2.png" id="arc2">
-        <img src="arc3.png" id="arc3">
-        <img src="arc4.png" id="arc4">
-        <img src="arc5.png" id="arc5">
-        <img src="arc6.png" id="arc6">
+    <img src="arc1.png" id="arc1">
+    <img src="arc2.png" id="arc2">
+    <img src="arc3.png" id="arc3">
+    <img src="arc4.png" id="arc4">
+    <img src="arc5.png" id="arc5">
+    <img src="arc6.png" id="arc6">
     </div>
+    <div id="melangees"></div>
     <button id="button">Mélanger l'arc en ciel</button>
 </body>
 </html>

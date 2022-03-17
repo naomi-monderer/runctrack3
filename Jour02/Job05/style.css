@@ -1,5 +1,5 @@
 body{
-    
+
     min-height: 4096px;
 }
 footer
@@ -7,5 +7,6 @@ footer
     width: 100vw;
     height: 150px;
     position: fixed;
+    bottom: 0;
     background-color:red;
 }
